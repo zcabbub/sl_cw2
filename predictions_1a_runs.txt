@@ -1,0 +1,841 @@
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 0
+in-sample = % 8.26835170744824
+in-sample = % 8.978494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 1
+in-sample = % 8.765797257327238
+in-sample = % 10.10752688172043
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 2
+in-sample = % 13.310029577843506
+in-sample = % 14.731182795698924
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 3
+in-sample = % 9.854799677332617
+in-sample = % 11.075268817204302
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 4
+in-sample = % 10.110244689432642
+in-sample = % 10.806451612903226
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 5
+in-sample = % 10.217800484001076
+in-sample = % 11.129032258064516
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 6
+in-sample = % 8.053240118311374
+in-sample = % 9.731182795698924
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 7
+in-sample = % 11.011024468943264
+in-sample = % 11.182795698924732
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 8
+in-sample = % 15.730034955633235
+in-sample = % 15.806451612903226
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 9
+in-sample = % 8.295240656090346
+in-sample = % 9.408602150537634
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 10
+in-sample = % 9.061575692390427
+in-sample = % 10.913978494623656
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 11
+in-sample = % 8.577574616832482
+in-sample = % 9.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 12
+in-sample = % 12.436138746974994
+in-sample = % 14.56989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 13
+in-sample = % 8.712019360043023
+in-sample = % 10.376344086021506
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 14
+in-sample = % 9.317020704490455
+in-sample = % 11.559139784946236
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 15
+in-sample = % 9.653132562516806
+in-sample = % 10.053763440860216
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 16
+in-sample = % 9.989244420543157
+in-sample = % 11.397849462365592
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 17
+in-sample = % 9.088464641032536
+in-sample = % 10.86021505376344
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 18
+in-sample = % 9.357354127453616
+in-sample = % 9.56989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=1 on run 19
+in-sample = % 13.377251949448777
+in-sample = % 14.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 0
+in-sample = % 3.8047862328582953
+in-sample = % 5.752688172043011
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 1
+in-sample = % 3.5627856950793224
+in-sample = % 5.806451612903226
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 2
+in-sample = % 3.3073406829792953
+in-sample = % 5.161290322580645
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 3
+in-sample = % 3.8451196558214575
+in-sample = % 5.21505376344086
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 4
+in-sample = % 3.3342296316214037
+in-sample = % 4.516129032258065
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 5
+in-sample = % 4.006453347674106
+in-sample = % 6.182795698924731
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 6
+in-sample = % 3.0250067222371606
+in-sample = % 4.78494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 7
+in-sample = % 4.477009948910998
+in-sample = % 6.397849462365591
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 8
+in-sample = % 4.974455498789998
+in-sample = % 7.688172043010753
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 9
+in-sample = % 3.45522990051089
+in-sample = % 6.397849462365591
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 10
+in-sample = % 3.764452809895133
+in-sample = % 5.376344086021505
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 11
+in-sample = % 3.8316751815004033
+in-sample = % 6.129032258064516
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 12
+in-sample = % 3.0518956708792686
+in-sample = % 5.161290322580645
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 13
+in-sample = % 3.6165635923635384
+in-sample = % 4.78494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 14
+in-sample = % 2.82333960742135
+in-sample = % 5.376344086021505
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 15
+in-sample = % 3.9930088733530518
+in-sample = % 6.451612903225806
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 16
+in-sample = % 3.3207851573003495
+in-sample = % 4.946236559139785
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 17
+in-sample = % 3.710674912610917
+in-sample = % 5.645161290322581
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 18
+in-sample = % 2.904006453347674
+in-sample = % 4.78494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=2 on run 19
+in-sample = % 3.1997848884108633
+in-sample = % 4.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 0
+in-sample = % 1.76122613605808
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 1
+in-sample = % 1.720892713094918
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 2
+in-sample = % 2.863673030384512
+in-sample = % 5.645161290322581
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 3
+in-sample = % 2.1107824684054854
+in-sample = % 3.763440860215054
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 4
+in-sample = % 1.9763377251949448
+in-sample = % 4.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 5
+in-sample = % 2.541005646679215
+in-sample = % 4.731182795698925
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 6
+in-sample = % 2.1107824684054854
+in-sample = % 5.0
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 7
+in-sample = % 2.003226673837053
+in-sample = % 5.161290322580645
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 8
+in-sample = % 1.3578919064264587
+in-sample = % 4.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 9
+in-sample = % 1.8015595590212423
+in-sample = % 3.924731182795699
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 10
+in-sample = % 2.7695617101371335
+in-sample = % 5.10752688172043
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 11
+in-sample = % 2.6216724926055393
+in-sample = % 5.860215053763441
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 12
+in-sample = % 1.9628932508738908
+in-sample = % 5.053763440860215
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 13
+in-sample = % 2.339338531863404
+in-sample = % 5.161290322580645
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 14
+in-sample = % 1.7074482387738639
+in-sample = % 4.247311827956989
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 15
+in-sample = % 1.2906695348211885
+in-sample = % 4.139784946236559
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 16
+in-sample = % 1.6402258671685936
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 17
+in-sample = % 1.9763377251949448
+in-sample = % 4.89247311827957
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 18
+in-sample = % 2.057004571121269
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=3 on run 19
+in-sample = % 1.9225598279107288
+in-sample = % 4.354838709677419
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 0
+in-sample = % 1.19655821457381
+in-sample = % 3.4408602150537635
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 1
+in-sample = % 1.6805592901317559
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 2
+in-sample = % 1.5461145469212154
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 3
+in-sample = % 1.4654477009948912
+in-sample = % 4.56989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 4
+in-sample = % 2.1242269427265392
+in-sample = % 5.32258064516129
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 5
+in-sample = % 1.156224791610648
+in-sample = % 3.010752688172043
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 6
+in-sample = % 1.747781661737026
+in-sample = % 4.516129032258065
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 7
+in-sample = % 1.1293358429685398
+in-sample = % 3.3333333333333335
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 8
+in-sample = % 1.4788921753159452
+in-sample = % 4.731182795698925
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 9
+in-sample = % 1.411669803710675
+in-sample = % 3.763440860215054
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 10
+in-sample = % 1.6133369185264856
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 11
+in-sample = % 2.016671148158107
+in-sample = % 4.67741935483871
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 12
+in-sample = % 1.1293358429685398
+in-sample = % 4.408602150537634
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 13
+in-sample = % 1.2234471632159183
+in-sample = % 4.032258064516129
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 14
+in-sample = % 1.5326700726001614
+in-sample = % 4.56989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 15
+in-sample = % 1.3041140091422425
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 16
+in-sample = % 1.8822264049475665
+in-sample = % 4.354838709677419
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 17
+in-sample = % 2.043560096800215
+in-sample = % 5.10752688172043
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 18
+in-sample = % 1.19655821457381
+in-sample = % 3.817204301075269
+Train data set size = 7438
+Test data set size = 1860
+
+d=4 on run 19
+in-sample = % 1.3444474321054047
+in-sample = % 4.086021505376344
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 0
+in-sample = % 1.0755579456843238
+in-sample = % 3.924731182795699
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 1
+in-sample = % 1.4654477009948912
+in-sample = % 4.731182795698925
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 2
+in-sample = % 1.8553374563054585
+in-sample = % 4.78494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 3
+in-sample = % 1.3041140091422425
+in-sample = % 4.354838709677419
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 4
+in-sample = % 1.19655821457381
+in-sample = % 4.139784946236559
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 5
+in-sample = % 1.2368916375369723
+in-sample = % 3.010752688172043
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 6
+in-sample = % 1.169669265931702
+in-sample = % 4.516129032258065
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 7
+in-sample = % 0.9545576767948373
+in-sample = % 3.4408602150537635
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 8
+in-sample = % 1.2503361118580263
+in-sample = % 3.978494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 9
+in-sample = % 0.9948910997579995
+in-sample = % 4.623655913978495
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 10
+in-sample = % 0.9680021511158914
+in-sample = % 4.247311827956989
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 11
+in-sample = % 1.411669803710675
+in-sample = % 3.6021505376344085
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 12
+in-sample = % 0.7528905619790266
+in-sample = % 3.763440860215054
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 13
+in-sample = % 0.9545576767948373
+in-sample = % 4.354838709677419
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 14
+in-sample = % 1.3041140091422425
+in-sample = % 3.6021505376344085
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 15
+in-sample = % 2.245227211616026
+in-sample = % 4.408602150537634
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 16
+in-sample = % 1.411669803710675
+in-sample = % 3.978494623655914
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 17
+in-sample = % 1.2234471632159183
+in-sample = % 3.6559139784946235
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 18
+in-sample = % 1.2772250605001345
+in-sample = % 4.516129032258065
+Train data set size = 7438
+Test data set size = 1860
+
+d=5 on run 19
+in-sample = % 0.9680021511158914
+in-sample = % 4.408602150537634
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 0
+in-sample = % 0.8066684592632428
+in-sample = % 4.731182795698925
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 1
+in-sample = % 0.887335305189567
+in-sample = % 4.139784946236559
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 2
+in-sample = % 1.3578919064264587
+in-sample = % 3.4408602150537635
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 3
+in-sample = % 0.9680021511158914
+in-sample = % 4.032258064516129
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 4
+in-sample = % 1.4923366496369992
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 5
+in-sample = % 1.6133369185264856
+in-sample = % 3.817204301075269
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 6
+in-sample = % 0.7394460876579726
+in-sample = % 4.086021505376344
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 7
+in-sample = % 1.1024468943264318
+in-sample = % 4.032258064516129
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 8
+in-sample = % 1.2637805861790803
+in-sample = % 4.56989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 9
+in-sample = % 1.1158913686474858
+in-sample = % 3.172043010752688
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 10
+in-sample = % 1.0890024200053778
+in-sample = % 3.4408602150537635
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 11
+in-sample = % 1.0621134713632696
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 12
+in-sample = % 0.9680021511158914
+in-sample = % 4.032258064516129
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 13
+in-sample = % 0.9948910997579995
+in-sample = % 4.086021505376344
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 14
+in-sample = % 1.3444474321054047
+in-sample = % 3.4946236559139785
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 15
+in-sample = % 1.6940037644528099
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 16
+in-sample = % 1.0486689970422156
+in-sample = % 3.870967741935484
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 17
+in-sample = % 1.1024468943264318
+in-sample = % 3.870967741935484
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 18
+in-sample = % 0.860446356547459
+in-sample = % 3.4946236559139785
+Train data set size = 7438
+Test data set size = 1860
+
+d=6 on run 19
+in-sample = % 0.860446356547459
+in-sample = % 3.7096774193548385
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 0
+in-sample = % 1.0217800484001076
+in-sample = % 4.139784946236559
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 1
+in-sample = % 1.5864479698843774
+in-sample = % 4.301075268817204
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 2
+in-sample = % 1.1158913686474858
+in-sample = % 3.3870967741935485
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 3
+in-sample = % 1.169669265931702
+in-sample = % 4.516129032258065
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 4
+in-sample = % 1.0083355740790536
+in-sample = % 4.193548387096774
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 5
+in-sample = % 1.0755579456843238
+in-sample = % 3.763440860215054
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 6
+in-sample = % 0.8470018822264049
+in-sample = % 3.924731182795699
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 7
+in-sample = % 0.9007797795106212
+in-sample = % 2.956989247311828
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 8
+in-sample = % 0.9007797795106212
+in-sample = % 4.354838709677419
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 9
+in-sample = % 1.1158913686474858
+in-sample = % 3.924731182795699
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 10
+in-sample = % 1.0083355740790536
+in-sample = % 3.6559139784946235
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 11
+in-sample = % 1.2637805861790803
+in-sample = % 3.6559139784946235
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 12
+in-sample = % 2.1645603656897014
+in-sample = % 5.860215053763441
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 13
+in-sample = % 1.183113740252756
+in-sample = % 4.086021505376344
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 14
+in-sample = % 0.9680021511158914
+in-sample = % 3.5483870967741935
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 15
+in-sample = % 1.411669803710675
+in-sample = % 4.623655913978495
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 16
+in-sample = % 0.8201129335842968
+in-sample = % 3.225806451612903
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 17
+in-sample = % 1.1293358429685398
+in-sample = % 3.3870967741935485
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 18
+in-sample = % 1.2100026888948643
+in-sample = % 3.7096774193548385
+Train data set size = 7438
+Test data set size = 1860
+
+d=7 on run 19
+in-sample = % 1.0217800484001076
+in-sample = % 3.4408602150537635
+took 682.85400557518
